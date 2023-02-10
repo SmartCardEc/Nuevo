@@ -72,8 +72,5 @@ def resultado():
     return render_template('login.html', tables=[x.to_html(classes='data')], titles=x.columns.values)
 
 
-
-
-
 if __name__ == '__main__':
     app.run(debug=True, port=5000)
