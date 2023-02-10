@@ -12,8 +12,3 @@ env_variables:
   FLASK_APP: main
   FLASK_ENV: development
 
-# Replace YOUR_PROJECT_ID with the ID of your Google Cloud project.
-service: idyllic-chimera-377216
-
-# Replace YOUR_PROJECT_ID with the ID of your Google Cloud project.
-project_id: MateoHerasClass
